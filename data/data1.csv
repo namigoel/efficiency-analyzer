@@ -1,0 +1,13 @@
+Month,No. of Products (in millions),Defective (in millions),Quality test passed (in millions),Cost (in billions)
+Jan,2,0.02,	1.8,5
+Feb,5,0.03	,4.77	,20
+Mar,7,	0.04	,6.63	,28
+Apr,3,	0.1	,2.82	,18
+May,9,	0.001,	8.92,27
+June,	11,	0.007	,10.66,33
+Jul,8,	0.04,	7.75,32
+Aug,4,	0.002,	3.87,20
+Sep,3,	0.2	,2.78,15
+Oct,1,	0.09,	0.9,3.5
+Nov,	7,	0.07,	6.92,21
+Dec,9,	0.04,	8.95,36
